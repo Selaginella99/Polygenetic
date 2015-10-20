@@ -5,4 +5,4 @@ which provides consumer-friendly information about the effects of genetic variat
 
 [Power and Predictive Accuracy of Polygenic Risk Scores](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003348), 2013 Plos Genetics.
 
-[PRSice](http://prsice.info/) software with its [reference(http://bioinformatics.oxfordjournals.org/content/31/9/1466.full) on 2014 Bioinformatics.
+[PRSice](http://prsice.info/) software with its [reference](http://bioinformatics.oxfordjournals.org/content/31/9/1466.full) on 2014 Bioinformatics, cited by [Phenome-wide analysis of genome-wide polygenic scores](http://www.nature.com/mp/journal/vaop/ncurrent/full/mp2015126a.html)
