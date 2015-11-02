@@ -5,3 +5,4 @@ A physical function limitation was present if a respondent reported yes or canâ€
 3. Maximum of BMI
 4. Diseases: cancer in all sites, Alzheimer diseases, cardiovascular diseases 
 5. Happiness measurement 
+6. Tech for a New Age - [A Tech Ecosystem](http://paidpost.nytimes.com/philips/living-health/tech-for-a-new-age.html) for Aging Well
