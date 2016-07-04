@@ -22,3 +22,5 @@ Prediction of breast cancer risk based on profiling with common genetic variants
 
 * Genetics and intelligence differences: five special findings. [R Plomin et al, *Molecular Psychiatry* (2015) 20, 98–108](http://www.nature.com/mp/journal/v20/n1/full/mp2014105a.html).
 
+* The Schizophrenia Polygenic Risk Score To What Does It Predispose in Adolescence? [Kenneth S. Kendler, MD, *JAMA Psychiatry*. 2016;73(3):193-194](http://sci-hub.cc/10.1001/jamapsychiatry.2015.2964).
+
